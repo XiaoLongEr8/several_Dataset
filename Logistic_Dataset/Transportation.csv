@@ -1,0 +1,16 @@
+Transportation_id,Courier_id,TransportationType,LicensePlate
+1,1,Van,ABC-1234
+2,2,Truck,DEF-5678
+3,3,Motorcycle,GHI-9012
+4,4,Car,JKL-3456
+5,5,Van,MNO-7890
+6,6,Truck,PQR-2345
+7,7,Motorcycle,STU-6789
+8,8,Car,VWX-0123
+9,9,Van,YZA-4567
+10,10,Truck,BCD-8901
+11,11,Motorcycle,EFG-1235
+12,12,Car,HIJ-6782
+13,13,Van,KLM-1345
+14,14,Truck,NOP-5674
+15,15,Motorcycle,QRS-8910

@@ -1,21 +1,21 @@
-﻿Recipient_id;Address_id;RecipientName;Email;PhoneNumber
-1;1;Warehouse Alpha;alpha.warehouse@example.com;555-1234
-2;2;Warehouse Beta;beta.warehouse@example.com;555-5678
-3;3;Warehouse Gamma;gamma.warehouse@example.com;555-8765
-4;4;Warehouse Delta;delta.warehouse@example.com;555-4321
-5;5;Warehouse Epsilon;epsilon.warehouse@example.com;555-6789
-6;6;Warehouse Zeta;zeta.warehouse@example.com;555-9876
-7;7;Warehouse Eta;eta.warehouse@example.com;555-5432
-8;8;Warehouse Theta;theta.warehouse@example.com;555-6543
-9;9;Warehouse Iota;iota.warehouse@example.com;555-3214
-10;10;Warehouse Kappa;kappa.warehouse@example.com;555-2143
-11;11;Warehouse Lambda;lambda.warehouse@example.com;555-4567
-12;12;Warehouse Mu;mu.warehouse@example.com;555-7890
-13;13;Warehouse Nu;nu.warehouse@example.com;555-2345
-14;14;Warehouse Xi;xi.warehouse@example.com;555-3456
-15;15;Warehouse Omicron;omicron.warehouse@example.com;555-6780
-16;16;Elite Tech Solutions;contact@elitetechsolutions.com;555-1122
-17;17;Greenfield Partners;info@greenfieldpartners.com;555-2233
-18;18;Coastal Ventures;support@coastalventures.com;555-3344
-19;19;Summit Innovations;hello@summitinnovations.com;555-4455
-20;20;Apex Logistics;service@apexlogistics.com;555-5566
+﻿Recipient_id,Address_id,RecipientName,Email,PhoneNumber
+1,1,Warehouse Alpha,alpha.warehouse@example.com,555-1234
+2,2,Warehouse Beta,beta.warehouse@example.com,555-5678
+3,3,Warehouse Gamma,gamma.warehouse@example.com,555-8765
+4,4,Warehouse Delta,delta.warehouse@example.com,555-4321
+5,5,Warehouse Epsilon,epsilon.warehouse@example.com,555-6789
+6,6,Warehouse Zeta,zeta.warehouse@example.com,555-9876
+7,7,Warehouse Eta,eta.warehouse@example.com,555-5432
+8,8,Warehouse Theta,theta.warehouse@example.com,555-6543
+9,9,Warehouse Iota,iota.warehouse@example.com,555-3214
+10,10,Warehouse Kappa,kappa.warehouse@example.com,555-2143
+11,11,Warehouse Lambda,lambda.warehouse@example.com,555-4567
+12,12,Warehouse Mu,mu.warehouse@example.com,555-7890
+13,13,Warehouse Nu,nu.warehouse@example.com,555-2345
+14,14,Warehouse Xi,xi.warehouse@example.com,555-3456
+15,15,Warehouse Omicron,omicron.warehouse@example.com,555-6780
+16,16,Elite Tech Solutions,contact@elitetechsolutions.com,555-1122
+17,17,Greenfield Partners,info@greenfieldpartners.com,555-2233
+18,18,Coastal Ventures,support@coastalventures.com,555-3344
+19,19,Summit Innovations,hello@summitinnovations.com,555-4455
+20,20,Apex Logistics,service@apexlogistics.com,555-5566

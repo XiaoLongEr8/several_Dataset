@@ -1,51 +1,51 @@
-﻿Product_id;Warehouse_id;ProductName;Category;Price
-1;3;Smartphone;Electronics;499.99
-2;7;Laptop;Electronics;899.99
-3;2;Tablet;Electronics;299.99
-4;10;Chair;Furniture;85.5
-5;8;Sofa;Furniture;450.75
-6;12;T-shirt;Clothing;15
-7;5;Jeans;Clothing;40
-8;1;Bread;Food;2.99
-9;4;Pasta;Food;3.5
-10;9;Novel;Books;12.99
-11;6;Children's Book;Books;8.99
-12;11;Action Figure;Toys;25
-13;14;Puzzle;Toys;10.99
-14;13;Drill;Tools;79.99
-15;3;Hammer;Tools;19.99
-16;5;Vitamin C;Health;10.5
-17;7;Shampoo;Beauty;5.99
-18;15;Lipstick;Beauty;14.99
-19;12;Car Battery;Automotive;150
-20;6;Oil Filter;Automotive;9.99
-21;9;Headphones;Electronics;79.99
-22;11;Smartwatch;Electronics;199.99
-23;14;Desk;Furniture;120
-24;2;Bed;Furniture;350
-25;8;Jacket;Clothing;60
-26;10;Sneakers;Clothing;75
-27;4;Milk;Food;1.99
-28;7;Cereal;Food;4.99
-29;1;Biography;Books;18.99
-30;3;Cookbook;Books;22.99
-31;12;Board Game;Toys;29.99
-32;13;Lego Set;Toys;59.99
-33;5;Screwdriver;Tools;12.99
-34;9;Wrench;Tools;15.99
-35;8;Protein Powder;Health;45
-36;6;Conditioner;Beauty;6.5
-37;4;Perfume;Beauty;55
-38;10;Tire;Automotive;99.99
-39;7;Windshield Wipers;Automotive;12.5
-40;15;Television;Electronics;399.99
-41;14;Monitor;Electronics;199.5
-42;11;Bookshelf;Furniture;80
-43;2;Dresser;Furniture;150
-44;3;Sweater;Clothing;30
-45;1;Boots;Clothing;85
-46;13;Cheese;Food;4.5
-47;12;Cookies;Food;3.99
-48;14;Self-help Book;Books;15.99
-49;15;Graphic Novel;Books;12.99
-50;4;Tablet;Electronics;299.99
+﻿Product_id,Warehouse_id,ProductName,Category,Price
+1,3,Smartphone,Electronics,499.99
+2,7,Laptop,Electronics,899.99
+3,2,Tablet,Electronics,299.99
+4,10,Chair,Furniture,85.5
+5,8,Sofa,Furniture,450.75
+6,12,T-shirt,Clothing,15
+7,5,Jeans,Clothing,40
+8,1,Bread,Food,2.99
+9,4,Pasta,Food,3.5
+10,9,Novel,Books,12.99
+11,6,Children's Book,Books,8.99
+12,11,Action Figure,Toys,25
+13,14,Puzzle,Toys,10.99
+14,13,Drill,Tools,79.99
+15,3,Hammer,Tools,19.99
+16,5,Vitamin C,Health,10.5
+17,7,Shampoo,Beauty,5.99
+18,15,Lipstick,Beauty,14.99
+19,12,Car Battery,Automotive,150
+20,6,Oil Filter,Automotive,9.99
+21,9,Headphones,Electronics,79.99
+22,11,Smartwatch,Electronics,199.99
+23,14,Desk,Furniture,120
+24,2,Bed,Furniture,350
+25,8,Jacket,Clothing,60
+26,10,Sneakers,Clothing,75
+27,4,Milk,Food,1.99
+28,7,Cereal,Food,4.99
+29,1,Biography,Books,18.99
+30,3,Cookbook,Books,22.99
+31,12,Board Game,Toys,29.99
+32,13,Lego Set,Toys,59.99
+33,5,Screwdriver,Tools,12.99
+34,9,Wrench,Tools,15.99
+35,8,Protein Powder,Health,45
+36,6,Conditioner,Beauty,6.5
+37,4,Perfume,Beauty,55
+38,10,Tire,Automotive,99.99
+39,7,Windshield Wipers,Automotive,12.5
+40,15,Television,Electronics,399.99
+41,14,Monitor,Electronics,199.5
+42,11,Bookshelf,Furniture,80
+43,2,Dresser,Furniture,150
+44,3,Sweater,Clothing,30
+45,1,Boots,Clothing,85
+46,13,Cheese,Food,4.5
+47,12,Cookies,Food,3.99
+48,14,Self-help Book,Books,15.99
+49,15,Graphic Novel,Books,12.99
+50,4,Tablet,Electronics,299.99
