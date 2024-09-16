@@ -1,0 +1,6 @@
+"Customer ID","Age","Gender","Item Purchased","Category","Purchase Amount (USD)","Location","Size","Color","Season","Review Rating","Subscription Status","Shipping Type","Discount Applied","Promo Code Used","Previous Purchases","Payment Method","Frequency of Purchases"
+"CUS001","25","Male","PRD001","Electronics","850.00","New York","Large","Black","Winter","5","Active","Standard","No","None","0","Credit Card","Monthly"
+"CUS002","30","Female","PRD005","Electronics","250.00","Los Angeles","Medium","White","Summer","4","Inactive","Express","Yes","SUMMER20","2","PayPal","Quarterly"
+"CUS003","35","Male","PRD010","Electronics","40.00","Chicago","Small","Black","Spring","3","Active","Standard","No","None","1","Bank Transfer","Rarely"
+"CUS004","20","Female","PRD012","Electronics","80.00","Houston","Small","Silver","Autumn","4","Inactive","Express","Yes","FALL15","0","Credit Card","Monthly"
+"CUS005","40","Male","PRD018","Electronics","40.00","Seattle","Medium","Black","Winter","5","Active","Standard","No","None","3","PayPal","Quarterly"
