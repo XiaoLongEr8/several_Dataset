@@ -1,4 +1,5 @@
-"User ID","Gender","Age","Country","Estimated Salary","Payment Method","Previous Purchases","Frequency of Purchases" "USER001","Male","25","USA","$40,000","Credit Card","Electronics, Office Tools","Monthly"
+"User ID","Gender","Age","Country","Estimated Salary","Payment Method","Previous Purchases","Frequency of Purchases"
+"USER001","Male","25","USA","$40,000","Credit Card","Electronics, Office Tools","Monthly"
 "USER002","Female","30","Canada","$50,000","PayPal","Office Tools, Electronics","Quarterly"
 "USER003","Male","28","UK","$35,000","Debit Card","Electronics","Bi-Monthly"
 "USER004","Female","32","Australia","$60,000","Credit Card","Office Tools","Monthly"
