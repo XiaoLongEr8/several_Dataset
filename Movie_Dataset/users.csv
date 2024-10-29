@@ -1,4 +1,4 @@
-serID,Gender,Age,Country,Estimated Salary,Payment Method
+userID,Gender,Age,Country,Estimated Salary,Payment Method
 1,Female,22,Italy,92757,PayPal
 2,Male,31,Canada,102389,Debit Card
 3,Female,36,Japan,31282,Debit Card
